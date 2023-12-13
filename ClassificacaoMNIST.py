@@ -15,8 +15,8 @@ import random as rd
 # datasets de treino e teste
 print("Total training sample and image size:", x_train.shape)
 print("Total training number of labels:", y_train.shape)
-print("Total training sample and image size:", x_test.shape)
-print("Total training number of labels:", y_test.shape)
+print("Total test sample and image size:", x_test.shape)
+print("Total test number of labels:", y_test.shape)
 
 #Gerar imagens aleatórias do dataset para verificação de funcionamento
 image_index = rd.randrange(59999) # escolher uma amostra aleatória: 
