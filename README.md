@@ -6,7 +6,7 @@ Ele contém esse README com informações sobre o projeto e referências de estu
 - https://colab.research.google.com/drive/18l4kZhwciCyk6GF0RI_V-nrzxSkS23Bs?usp=sharing
 
 # Link do vídeo de relatório
-- https://drive.google.com/file/d/1sLTIoW0z-XjxVYINrzc5ay54ox13tg2x/view?usp=drive_link
+- https://drive.google.com/file/d/1h0wni3uBVflyxcoH3MSGVIyyu9HDxTyR/view?usp=drive_link
 
 # Referências
 ## Código
