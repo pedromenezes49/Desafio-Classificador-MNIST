@@ -3,10 +3,10 @@ Este repositório é referente a um desafio proposto como parte de processo sele
 Ele contém esse README com informações sobre o projeto e referências de estudo, o arquivo .py de um modelo CNN classificador para o dataser MNIST, e um vídeo como relatório do processo de desenvolvimento.
 
 # Notebook
-https://colab.research.google.com/drive/18l4kZhwciCyk6GF0RI_V-nrzxSkS23Bs?usp=sharing
+- https://colab.research.google.com/drive/18l4kZhwciCyk6GF0RI_V-nrzxSkS23Bs?usp=sharing
 
 # Link do vídeo
-link
+- https://drive.google.com/file/d/1sLTIoW0z-XjxVYINrzc5ay54ox13tg2x/view?usp=drive_link
 
 # Referências
 ## Código
